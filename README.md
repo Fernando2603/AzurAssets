@@ -1,2 +1,2 @@
 # AzurAssets
-![](https://img.shields.io/badge/EN-6.2.342-blue?style=flat-square)
+![](https://img.shields.io/badge/EN-7.1.90-blue?style=flat-square)
