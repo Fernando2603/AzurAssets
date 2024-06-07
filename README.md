@@ -9,7 +9,7 @@ The content within the AzurAssets repository is created for educational and info
 The assets are provided under the principle of fair use for non-commercial, educational purposes, and personal study. They are not intended for any form of commercial gain. The inclusion of these assets is for illustrative purposes only and constitutes a 'fair use' of any such copyrighted material as provided for in section 107 of the US Copyright Law.
 
 ## Contact Information
-For any inquiries or concerns regarding copyright issues, please contact [Fernando2603@github](https://github.com/Fernando2603).
+For any inquiries or concerns regarding copyright issues, please contact [Fernando2603@github](https://github.com/Fernando2603) or fernando2603 in Discord (you need to add friend to direct message or you can tag me at Azur Lane Official Discord server).
 
 ## Acknowledgments
 Special thanks to the developers and artists of Azur Lane for creating the original works that inspired this project.
