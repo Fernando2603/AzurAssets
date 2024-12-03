@@ -1,5 +1,5 @@
 # AzurAssets/EN
-![](https://img.shields.io/badge/EN-8.2.185-blue?style=flat-square)
+![](https://img.shields.io/badge/EN-8.2.187-blue?style=flat-square)
 ![](https://img.shields.io/badge/CV-535-blue?style=flat-square)
 ![](https://img.shields.io/badge/L2D-610-blue?style=flat-square)
 ![](https://img.shields.io/badge/PIC-22-blue?style=flat-square)
