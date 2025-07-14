@@ -1,5 +1,5 @@
 # AzurAssets/EN
-![](https://img.shields.io/badge/EN-9.1.251-blue?style=flat-square)
+![](https://img.shields.io/badge/EN-9.1.252-blue?style=flat-square)
 ![](https://img.shields.io/badge/CV-625-blue?style=flat-square)
 ![](https://img.shields.io/badge/L2D-701-blue?style=flat-square)
 ![](https://img.shields.io/badge/PIC-24-blue?style=flat-square)
@@ -7,5 +7,5 @@
 ![](https://img.shields.io/badge/CIPHER-56-blue?style=flat-square)
 ![](https://img.shields.io/badge/MANGA-87-blue?style=flat-square)
 ![](https://img.shields.io/badge/PAINTING-346-blue?style=flat-square)
-![](https://img.shields.io/badge/DORM-140-blue?style=flat-square)
+![](https://img.shields.io/badge/DORM-141-blue?style=flat-square)
 ![](https://img.shields.io/badge/MAP-1-blue?style=flat-square)
