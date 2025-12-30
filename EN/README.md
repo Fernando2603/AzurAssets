@@ -1,11 +1,11 @@
 # AzurAssets/EN
-![](https://img.shields.io/badge/EN-9.2.337-blue?style=flat-square)
+![](https://img.shields.io/badge/EN-9.2.340-blue?style=flat-square)
 ![](https://img.shields.io/badge/CV-657-blue?style=flat-square)
 ![](https://img.shields.io/badge/L2D-759-blue?style=flat-square)
 ![](https://img.shields.io/badge/PIC-24-blue?style=flat-square)
 ![](https://img.shields.io/badge/BGM-26-blue?style=flat-square)
 ![](https://img.shields.io/badge/CIPHER-62-blue?style=flat-square)
 ![](https://img.shields.io/badge/MANGA-100-blue?style=flat-square)
-![](https://img.shields.io/badge/PAINTING-404-blue?style=flat-square)
+![](https://img.shields.io/badge/PAINTING-407-blue?style=flat-square)
 ![](https://img.shields.io/badge/DORM-223-blue?style=flat-square)
 ![](https://img.shields.io/badge/MAP-52-blue?style=flat-square)
